@@ -8,10 +8,10 @@
 
 # Set9up For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD8/fork)
+- FORK THE REPOSITORY [Here](https://github.com/CYBER-MAX-BOT-SL-BY-SACHITH/CYBER-PANDA-MD-V1/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Auth-Session-Generator?v=1)
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@pandamax/-?v=1)
 
 ## ` BUILDPACKS`
 
