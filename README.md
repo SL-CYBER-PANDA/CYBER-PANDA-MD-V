@@ -1,12 +1,12 @@
 
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩8ꫂ<br></h1>
+<h1 align="center">꧁𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈-𝘔𝘋-𝘝1꧂<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/cLtCXVm/cheemspic.jpg" width="540" height="280" />
+<img src="https://telegra.ph/file/6032c257abee792a75480.jpg" width="540" height="280" />
 </p>
 
 
-# Setup For Deployment 👇
+# Set9up For Deployment 👇
 
 - FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD8/fork)
 
