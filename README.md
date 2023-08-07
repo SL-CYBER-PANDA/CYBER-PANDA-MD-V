@@ -16,8 +16,9 @@
 ## ` BUILDPACKS`
 
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+~*▏🎩ᴄʏʙᴇʀ-ᴘᴀɴᴅᴀ-ᴍᴅ-ᴠ1🎩*~
+~*▏𝘊𝘈𝘔𝘐𝘕𝘎 𝘚𝘖𝘖𝘕.....👋...*~
+                          ~*ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴄʏʙᴇʀ x ꜱᴀᴄʜɪʏᴀ*~
 ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBER-MAX-BOT-SL-BY-SACHITH/CYBER-PANDA-MD-V1)
